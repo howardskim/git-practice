@@ -1,2 +1,2 @@
 This is my first git practice.
-Hi
+Hi, my name is Howard.
